@@ -1,6 +1,6 @@
 # Multithreaded Server in Java
 
-A multithreaded server application built using Java that allows the server to handle multiple requests concurrently. Using Jmeter we can make continuous requests to the server, for testing the application. Currently tested the performance of the app, with 100 Requests/second. Below are the screenshots and video recordings of the tests. 
+A multithreaded server application built using Java that allows the server to handle multiple requests concurrently. Using Jmeter we can make continuous requests to the server, for testing the application. Currently tested the performance of the app, with 100 Requests/second. Below are the video recordings of the tests. 
 
 ## Technologies
 - **Java SE**
